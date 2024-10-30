@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539861984523",
+    "project_id": "ezsale-dev",
+    "storage_bucket": "ezsale-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539861984523:android:9f3ade7dc3a2e2ea5d6e0e",
+        "android_client_info": {
+          "package_name": "kr.nextchain.ezsale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAucfJrw3E3FaZZ0ScmlgJB64olBagfFEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
